@@ -1,4 +1,4 @@
-public class Printf_09 {
+public class Printf_10 {
     public static void main(String[] args) {
 
         // printf() is a method used to format the output in Java.

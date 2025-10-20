@@ -1,4 +1,4 @@
-public class Maths_04 {
+public class Arithmatic_5 {
     
     public static void main(String[] args) {
 

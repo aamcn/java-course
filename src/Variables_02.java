@@ -1,4 +1,4 @@
-public class Variables_01 {
+public class Variables_02 {
 
     public static void main(String[] args) {
 

@@ -1,6 +1,6 @@
 import java.util.Scanner; 
 
-public class MathClass_08 {
+public class MathClass_09 {
     public static void main(String[] args){
 
         // Math class methods
